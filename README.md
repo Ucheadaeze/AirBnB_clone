@@ -28,10 +28,10 @@ We would start by cloning the repository of the project from Github, which would
 
 After cloning the repository then we change directory into the repository AirBnb_clone. Then create files that would allow the program to run.
 
-##How to use it
+## How to use it
 There are two different modes that it can work with; Interactive mode and Non-Interactive Mode
 
-###Interactive Mode
+### Interactive Mode
 
 $ ./console.py
 (hbnb) help
@@ -45,7 +45,7 @@ EOF  help  quit
 (hbnb) quit
 $
 
-###Non-Interactive Mode
+### Non-Interactive Mode
 $ echo "help" | ./console.py
 (hbnb)
 
