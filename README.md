@@ -33,6 +33,8 @@ There are two different modes that it can work with; Interactive mode and Non-In
 
 ### Interactive Mode
 
+In this Mode, the console will display a prompt (hbnb) indicating that the user can write and execute a command. After the command is run, a prompt will appear and wait for a new command. This can go indefinitely as long as the user does not exit the program.
+
 $ ./console.py
 (hbnb) help
 
@@ -46,6 +48,9 @@ EOF  help  quit
 $
 
 ### Non-Interactive Mode
+
+ In this mode, the shell will need to be run with a command input piped into its execution so that the command is run as soon as the Shell starts. In this mode no prompt will appear, and no further input will be expected from the user.
+
 $ echo "help" | ./console.py
 (hbnb)
 
@@ -66,7 +71,8 @@ EOF  help  quit
 (hbnb) 
 $
   
- ##Examples
+  
+ ## Examples
  
   ```
 user@ubuntu:~/AirBnB$ ./console.py
