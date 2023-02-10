@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 The AirBnB Clone Project
 =======
 # The AirBnB Clone Project
