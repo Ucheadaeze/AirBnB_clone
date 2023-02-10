@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-The AirBnB Clone Project
 =======
 # The AirBnB Clone Project
 >>>>>>> 6cc68fbf0ef45dbdc5fb2e07b2d9297650c0d368
